@@ -4,7 +4,7 @@
 //
 // License: MIT / X11
 // Copyright (c) 2009, 2015, 2023 by James K. Lawless
-// See license at https://github.com/jimlawless/readcmd/license
+// See license athttps://github.com/jimlawless/readcmd/blob/main/LICENSE
 // Source: https://github.com/jimlawless/readcmd
 // https://jiml.us
 //
